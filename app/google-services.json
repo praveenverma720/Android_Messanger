@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "934149493383",
+    "firebase_url": "https://connect-71333.firebaseio.com",
+    "project_id": "connect-71333",
+    "storage_bucket": "connect-71333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934149493383:android:55b96633bb34c794",
+        "android_client_info": {
+          "package_name": "com.braunster.androidchatsdk.firebaseplugin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934149493383-k2qaum2vsed23opb3r2jfns9smqbc6nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IQ3fDADOdaOoyFkLPVy5-OkOvvaROPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934149493383:android:f8a219e17e445e91",
+        "android_client_info": {
+          "package_name": "com.praveen.pilani.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934149493383-k2qaum2vsed23opb3r2jfns9smqbc6nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IQ3fDADOdaOoyFkLPVy5-OkOvvaROPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
